@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: maroon;
+}
+body{
+	background-color: maroon;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:maroon; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+#NavbarCollapse ul li a {
+	color: maroon;
+}
+.navbar-brand{
+font-size: 30px;	
+}
